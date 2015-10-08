@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ankur/AndroidStudioProjects/SimpleList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/ankur/AndroidStudioProjects/SimpleList/app/build/intermediates/pre-dexed/debug/classes-cd0cadfd75af0a741c83b15f3bff1451713a2713.jar" />
+    </item>
+    <item
+        jar="/home/ankur/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/ankur/AndroidStudioProjects/SimpleList/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-65dcef880781a860b11bfa8f6c63821e49983c50.jar" />
+    </item>
+    <item
+        jar="/home/ankur/AndroidStudioProjects/SimpleList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/ankur/AndroidStudioProjects/SimpleList/app/build/intermediates/pre-dexed/debug/classes-f0f6d4c4b4d4d425aecd31f0f72fc2b8387f43ac.jar" />
+    </item>
+    <item
+        jar="/home/ankur/AndroidStudioProjects/SimpleList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/ankur/AndroidStudioProjects/SimpleList/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-5d67f1a29285f731a956396a8013200e1182dab5.jar" />
+    </item>
+
+</items>
